@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Programador iniciante.<br>🌱 Aprendendo conceitos sobre front-end.<br>💬 Aberto obter experiência de outros programadores.<br>⚡ Resiliência e foco são as chaves para o sucesso
+🔭 Programador iniciante.<br>🌱 Aprendendo conceitos sobre front-end.<br>💬 Aberto a obter experiência de outros programadores.<br>⚡ Resiliência e foco são as chaves para o sucesso
 
 
 # 💻 Tech Stack:
